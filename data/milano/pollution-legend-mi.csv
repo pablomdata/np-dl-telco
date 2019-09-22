@@ -1,0 +1,36 @@
+20020,Milano -via Carlo Pascal ,45.478452,9.235016,Ammonia,µg/m,YYYY/MM/DD
+17127,Milano - viale Marche,45.496067,9.193023,Benzene,µg/m,YYYY/MM/DD HH24:MI
+17126,Milano -via Carlo Pascal ,45.478452,9.235016,Benzene,µg/m,YYYY/MM/DD HH24:MI
+6057,Milano - via Senato,45.47078,9.19718,Benzene,µg/m,YYYY/MM/DD HH24:MI
+6062,Milano - P.zza  Zavattari,45.476089,9.143509,Benzene,µg/m,YYYY/MM/DD HH24:MI
+5552,Milano - P.zza Abbiategrasso,45.430579,9.17634,Nitrogene Dioxide,µg/m3,YYYY/MM/DD HH24:MI
+5542,Milano - viale Liguria,45.443972,9.171479,Nitrogene Dioxide,µg/m3,YYYY/MM/DD HH24:MI
+5504,Milano - viale Marche,45.496067,9.193023,Nitrogene Dioxide,µg/m3,YYYY/MM/DD HH24:MI
+5550,Milano - Parco Lambro,45.491645,9.24671,Nitrogene Dioxide,µg/m3,YYYY/MM/DD HH24:MI
+10279,Milano -via Carlo Pascal ,45.478452,9.235016,Nitrogene Dioxide,µg/m3,YYYY/MM/DD HH24:MI
+5551,Milano - via Senato,45.47078,9.19718,Nitrogene Dioxide,µg/m3,YYYY/MM/DD HH24:MI
+5531,Milano - via Verziere,45.463171,9.195995,Nitrogene Dioxide,µg/m3,YYYY/MM/DD HH24:MI
+5506,Milano - P.zza  Zavattari,45.476089,9.143509,Nitrogene Dioxide,µg/m3,YYYY/MM/DD HH24:MI
+10280,Milano -via Carlo Pascal ,45.478452,9.235016,Sulfur Dioxide ,µg/m,YYYY/MM/DD HH24:MI
+20004,Milano -via Carlo Pascal ,45.478452,9.235016,BlackCarbon,µg/m,YYYY/MM/DD HH24:MI
+20005,Milano - via Senato,45.47078,9.19718,BlackCarbon,µg/m,YYYY/MM/DD HH24:MI
+5823,Milano - viale Liguria,45.443972,9.171479,Carbon Monoxide ,mg/m3,YYYY/MM/DD HH24:MI
+5827,Milano - viale Marche,45.496067,9.193023,Carbon Monoxide ,mg/m3,YYYY/MM/DD HH24:MI
+5834,Milano - via Senato,45.47078,9.19718,Carbon Monoxide ,mg/m3,YYYY/MM/DD HH24:MI
+5841,Milano - P.zza  Zavattari,45.476089,9.143509,Carbon Monoxide ,mg/m3,YYYY/MM/DD HH24:MI
+6344,Milano - P.zza Abbiategrasso,45.430579,9.17634,Total Nitrogen,ppb,YYYY/MM/DD HH24:MI
+6320,Milano - viale Liguria,45.443972,9.171479,Total Nitrogen,ppb,YYYY/MM/DD HH24:MI
+6328,Milano - viale Marche,45.496067,9.193023,Total Nitrogen,ppb,YYYY/MM/DD HH24:MI
+6340,Milano - Parco Lambro,45.491645,9.24671,Total Nitrogen,ppb,YYYY/MM/DD HH24:MI
+10320,Milano - via Senato,45.47078,9.19718,PM10 (SM2005),µg/m,YYYY/MM/DD
+6956,Milano - via Verziere,45.463171,9.195995,PM10 (SM2005),µg/m,YYYY/MM/DD
+10283,Milano -via Carlo Pascal ,45.478452,9.235016,PM2.5,µg/m,YYYY/MM/DD
+17122,Milano - via Senato,45.47078,9.19718,PM2.5,µg/m,YYYY/MM/DD
+10273,Milano -via Carlo Pascal ,45.478452,9.235016,PM10 (SM2005),µg/m,YYYY/MM/DD HH24:MI
+5722,Milano - Parco Lambro,45.491645,9.24671,Ozono,µg/m3,YYYY/MM/DD HH24:MI
+10282,Milano -via Carlo Pascal ,45.478452,9.235016,Ozone,µg/m3,YYYY/MM/DD HH24:MI
+5725,Milano - via Verziere,45.463171,9.195995,Ozono,µg/m3,YYYY/MM/DD HH24:MI
+10278,Milano -via Carlo Pascal ,45.478452,9.235016,Total Nitrogen,ppb,YYYY/MM/DD HH24:MI
+6354,Milano - via Senato,45.47078,9.19718,Total Nitrogen,ppb,YYYY/MM/DD HH24:MI
+6366,Milano - via Verziere,45.463171,9.195995,Total Nitrogen,ppb,YYYY/MM/DD HH24:MI
+6372,Milano - P.zza  Zavattari,45.476089,9.143509,Total Nitrogen,ppb,YYYY/MM/DD HH24:MI

@@ -6,4 +6,4 @@
 .ipynb_checkpoints
 checkpoint
 logs/*
-references/*
+src/*
